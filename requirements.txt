@@ -17,6 +17,7 @@ langchain_anthropic
 
 # Embeddings – CPU ONLY (Render-safe)
 sentence-transformers==2.6.1
+torch==2.1.2+cpu
 transformers==4.38.2
 tokenizers==0.15.2
 huggingface-hub==0.20.3
