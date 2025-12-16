@@ -9,6 +9,8 @@ langchain_community
 langchain_anthropic
 langchain_openai
 langchain_qdrant
+langchain==0.1.16
+
 # Frontend dependencies
 streamlit
 pandas
