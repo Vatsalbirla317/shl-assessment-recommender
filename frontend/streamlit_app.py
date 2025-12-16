@@ -50,7 +50,7 @@ if st.button("Get Recommendations", disabled=(backend_url is None)):
                 response = requests.post(
                     recommend_endpoint,
                     json={"job_description": job_description},
-                    timeout=120  # 2 minute timeout since LLM processing can take time
+                    timeout=300  # 2 minute timeout since LLM processing can take time
                 )
 
                 # Raise for non-2xx responses to handle gracefully
