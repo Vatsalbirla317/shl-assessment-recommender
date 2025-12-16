@@ -1,0 +1,16 @@
+python-dotenv
+numpy
+pydantic
+rich
+fastapi
+uvicorn
+langchain_core
+langchain_community
+langchain_anthropic
+langchain_openai
+langchain_qdrant
+# Frontend dependencies
+streamlit
+pandas
+beautifulsoup4
+requests

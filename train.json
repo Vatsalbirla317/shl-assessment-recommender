@@ -1,0 +1,64 @@
+[
+  {
+    "query": "Hiring a mid-level Java developer who collaborates with stakeholders and writes unit tests",
+    "relevant_urls": [
+      "https://www.shl.com/solutions/products/product-catalog/view/account-manager-solution/",
+      "https://www.shl.com/solutions/products/product-catalog/view/agency-manager-solution/"
+    ]
+  },
+  {
+    "query": "Entry level administrative assistant with strong Microsoft Office and customer service skills",
+    "relevant_urls": [
+      "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/"
+    ]
+  },
+  {
+    "query": "Hiring a cashier with strong attention to detail and cash handling experience",
+    "relevant_urls": [
+      "https://www.shl.com/solutions/products/product-catalog/view/cashier-solution/"
+    ]
+  },
+  {
+    "query": "Customer service agent for a contact centre handling inbound calls",
+    "relevant_urls": [
+      "https://www.shl.com/solutions/products/product-catalog/view/contact-center-customer-service-8-0/",
+      "https://www.shl.com/solutions/products/product-catalog/view/contact-center-sales-service-8-0/"
+    ]
+  },
+  {
+    "query": "Branch operations supervisor familiar with banking operations and compliance",
+    "relevant_urls": [
+      "https://www.shl.com/solutions/products/product-catalog/view/bank-operations-supervisor-short-form/"
+    ]
+  },
+  {
+    "query": "Analyst role: strong Python, SQL and analytical reasoning skills",
+    "relevant_urls": [
+      "https://www.shl.com/solutions/products/product-catalog/view/account-manager-solution/"
+    ]
+  },
+  {
+    "query": "Sales manager with experience leading teams and client relationships",
+    "relevant_urls": [
+      "https://www.shl.com/solutions/products/product-catalog/view/agency-manager-solution/"
+    ]
+  },
+  {
+    "query": "Bilingual Spanish reservation agent for hospitality sector",
+    "relevant_urls": [
+      "https://www.shl.com/solutions/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/"
+    ]
+  },
+  {
+    "query": "Bookkeeping position requiring accounting knowledge and attention to detail",
+    "relevant_urls": [
+      "https://www.shl.com/solutions/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/"
+    ]
+  },
+  {
+    "query": "Mid-level branch manager with leadership and operations experience",
+    "relevant_urls": [
+      "https://www.shl.com/solutions/products/product-catalog/view/branch-manager-short-form/"
+    ]
+  }
+]
