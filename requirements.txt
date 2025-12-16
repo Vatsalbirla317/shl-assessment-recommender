@@ -1,18 +1,30 @@
+# Core
 python-dotenv
 numpy
 pydantic
 rich
-fastapi
-uvicorn
+requests
+beautifulsoup4
+pandas
+
+# ML / Embeddings (MUST come before langchain)
+torch>=2.0.0
+sentence-transformers==2.6.1
+transformers==4.38.2
+tokenizers==0.15.2
+huggingface-hub==0.20.3
+
+# LangChain ecosystem (PINNED, STABLE)
+langchain==0.1.16
 langchain_core
 langchain_community
-langchain_anthropic
 langchain_openai
+langchain_anthropic
 langchain_qdrant
-langchain==0.1.16
 
-# Frontend dependencies
+# API
+fastapi
+uvicorn
+
+# Frontend
 streamlit
-pandas
-beautifulsoup4
-requests
