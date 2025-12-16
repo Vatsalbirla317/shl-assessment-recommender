@@ -60,7 +60,7 @@ if st.button("Get Recommendations", disabled=(backend_url is None)):
                         err = response.json().get('detail') or response.text
                     except Exception:
                         err = response.text
-                    st.error(f"Error from recommendation service: {err}")
+                    st.error(f"Error from recommendation service: \n{response.text}")
                 else:
                     try:
                         response_json = response.json()
